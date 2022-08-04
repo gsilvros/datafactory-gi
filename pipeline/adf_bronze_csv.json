@@ -87,7 +87,10 @@
 													"value": "@item().fileName",
 													"type": "Expression"
 												},
-												"table_name": "@item().table",
+												"table_name": {
+													"value": "@concat(item().table, '_Giovanna')",
+													"type": "Expression"
+												},
 												"database": "@item().database",
 												"delimiter": "@item().delimiter"
 											}
