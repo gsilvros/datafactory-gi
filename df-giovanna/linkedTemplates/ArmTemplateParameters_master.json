@@ -11,6 +11,9 @@
 		"ls_key_vault_properties_typeProperties_baseUrl": {
 			"value": "https://kv-beca-giovanna.vault.azure.net/"
 		},
+		"ls_databricks_gi_properties_typeProperties_existingClusterId": {
+			"value": "0804-140340-fikkby3c"
+		},
 		"containerUri": {
 			"value": ""
 		},
