@@ -88,7 +88,7 @@
 													"type": "Expression"
 												},
 												"table_name": {
-													"value": "@concat(item().table, '_Giovanna')",
+													"value": "@concat(item().table, '_giovanna')",
 													"type": "Expression"
 												},
 												"database": "@item().database",
